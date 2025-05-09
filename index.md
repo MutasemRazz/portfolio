@@ -1,28 +1,19 @@
 ---
-layout: default
-title: Mutasem A. Razzek – Mechanical & Aerospace Engineer
+layout: home
+title: "Mutasem A. Razzek"
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/cessna-pressure-climb.png
+  caption: "Mechanical & Aerospace Engineer | EIT | Private Pilot"
 ---
 
-# 👋 Hi, I'm Mutasem A. Razzek  
-**Mechanical & Aerospace Engineer | EIT | Private Pilot**
+Welcome to my portfolio! I'm a Mechanical Engineer with a minor in Aerospace Engineering, a licensed private pilot, and passionate contributor to rocketry, simulation, and energy-sector projects.
 
-As a recent Mechanical Engineering graduate with a minor in Aerospace Engineering from the University of Calgary, I’m driven by a deep commitment to the aerospace industry and innovation in mechanical design.
+### 🚀 Explore My Work
 
-During my studies, I gained hands-on experience in the oil and gas sector at Canadian Natural Resources Limited (CNRL), where I contributed to production optimization and project coordination.
-
-Additionally, my involvement in the Student Organization for Aerospace Research (SOAR) provided me with a unique platform to apply aerospace concepts in practical, interdisciplinary projects.
-
----
-
-### 🔧 Portfolio Sections
-
-- [Aerospace & Mechanical Projects](projects/aerospace.md)
-- [Rocketry & SOAR](projects/rocketry.md)
-- [Oil & Gas Engineering](projects/oil-gas.md)
-- [Aviation Experience](projects/aviation.md)
-- [Skills & Education](skills.md)
-- [Contact](contact.md)
-
----
-
-> 📫 You can reach me at: [mabdalrazzek@gmail.com](mailto:mabdalrazzek@gmail.com)
+- [✈️ Aerospace & Mechanical Projects](projects/aerospace)
+- [🚀 Rocketry & SOAR](projects/rocketry)
+- [🛢️ Oil & Gas Engineering](projects/oil-gas)
+- [✈️ Aviation Experience](projects/aviation)
