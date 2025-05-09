@@ -3,9 +3,10 @@ name: "Mutasem A. Razzek"
 email: "mabdalrazzek@gmail.com"
 description: "Mechanical & Aerospace Engineer | EIT | Private Pilot"
 url: "https://mutasemrazz.github.io"
-baseurl: "/portfolio"
+baseurl: "/portfolio" # repository name
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -14,13 +15,17 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
 
+# Pagination
 paginate: 5
 paginate_path: "/page:num/"
+
+# Collections
 collections:
   projects:
     output: true
     permalink: /projects/:name/
 
+# Default settings
 defaults:
   - scope:
       path: ""
@@ -32,4 +37,7 @@ defaults:
       comments: false
       share: true
 
-# Trigger rebuild
+# Optional: Google Analytics or Disqus can go here
+# google_analytics: UA-XXXXXXXXX-X
+# disqus:
+#   shortname: your-disqus-shortname
