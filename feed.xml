@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://mutasemrazz.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mutasemrazz.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2025-05-09T21:29:32+00:00</updated><id>https://mutasemrazz.github.io/portfolio/feed.xml</id><title type="html">Mutasem A. Razzek</title><subtitle>Mechanical &amp; Aerospace Engineer | EIT | Private Pilot</subtitle><entry><title type="html">FEA Analysis of Cessna 172 Wing</title><link href="https://mutasemrazz.github.io/portfolio/aerospace/2024/05/08/cessna-wing-fea.html" rel="alternate" type="text/html" title="FEA Analysis of Cessna 172 Wing" /><published>2024-05-08T00:00:00+00:00</published><updated>2024-05-08T00:00:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/aerospace/2024/05/08/cessna-wing-fea</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/aerospace/2024/05/08/cessna-wing-fea.html"><![CDATA[<h1 id="️-finite-element-analysis-of-a-cessna-172-wing">🛠️ Finite Element Analysis of a Cessna 172 Wing</h1>
+
+<p>This project involved a comprehensive structural analysis of a simplified Cessna 172 wing under realistic aerodynamic conditions using Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD).</p>
+
+<hr />
+
+<h3 id="-objective">🎯 Objective</h3>
+<p>Evaluate the wing’s structural behavior under various flight conditions — including deformation, stress distribution, and vibration — to support aeroelastic performance evaluation.</p>
+
+<hr />
+<h3 id="️-visual-results">🖼️ Visual Results</h3>
+
+<h4 id="pressure-contour">Pressure Contour</h4>
+<p><strong>Climb Attitude:</strong><br />
+<img src="https://mutasemrazz.github.io/portfolio/assets/images/cessna-pressure-climb.png" alt="Pressure - Climb" /></p>
+
+<p><strong>Cruise Attitude:</strong><br />
+<img src="https://mutasemrazz.github.io/portfolio/assets/images/cessna-pressure-cruise.png" alt="Pressure - Cruise" /></p>
+
+<h4 id="total-deformation">Total Deformation</h4>
+<p><strong>Climb Attitude:</strong><br />
+<img src="https://mutasemrazz.github.io/portfolio/assets/images/cessna-deformation-climb.png" alt="Deformation - Climb" /></p>
+
+<p><strong>Cruise Attitude:</strong><br />
+<img src="https://mutasemrazz.github.io/portfolio/assets/images/cessna-deformation-cruise.png" alt="Deformation - Cruise" /></p>
+
+<h4 id="von-mises-stress">Von-Mises Stress</h4>
+<p><strong>Climb Attitude:</strong><br />
+<img src="https://mutasemrazz.github.io/portfolio/assets/images/cessna-vonmises-climb.png" alt="Von-Mises - Climb" /></p>
+
+<p><strong>Cruise Attitude:</strong><br />
+<img src="https://mutasemrazz.github.io/portfolio/assets/images/cessna-vonmises-cruise.png" alt="Von-Mises - Cruise" /></p>
+
+<hr />
+
+<h3 id="-deliverables">📎 Deliverables</h3>
+<ul>
+  <li><a href="../assets/pdfs/cessna172-analysis.pdf">PDF Report</a> <em>(Upload this</em></li>
+</ul>]]></content><author><name></name></author><category term="aerospace" /><summary type="html"><![CDATA[🛠️ Finite Element Analysis of a Cessna 172 Wing]]></summary></entry><entry><title type="html">Hybrid Rocket Project – Ouroboros I &amp;amp; II</title><link href="https://mutasemrazz.github.io/portfolio/rocketry/2024/05/08/ouroboros-hybrid.html" rel="alternate" type="text/html" title="Hybrid Rocket Project – Ouroboros I &amp;amp; II" /><published>2024-05-08T00:00:00+00:00</published><updated>2024-05-08T00:00:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/rocketry/2024/05/08/ouroboros-hybrid</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/rocketry/2024/05/08/ouroboros-hybrid.html"><![CDATA[<h1 id="️-hybrid-rocket-development--ouroboros-i--ii">🛰️ Hybrid Rocket Development – Ouroboros I &amp; II</h1>
+
+<p>As part of the SOAR rocketry team, I contributed to the design, simulation, manufacturing, and launch of <strong>Ouroboros I &amp; II</strong>, hybrid-fueled rockets developed for high-power competition flights.</p>
+
+<hr />
+
+<h3 id="-achievements">🏅 Achievements</h3>
+<ul>
+  <li>🥇 <strong>First Place</strong> in Hybrid Rocket Category at <strong>Spaceport America Cup</strong> in New Mexico.</li>
+  <li>Successfully launched multiple rockets at Launch Canada and international competitions.</li>
+</ul>
+
+<hr />
+
+<h3 id="-my-role-airframe--recovery-lead">🧩 My Role: Airframe &amp; Recovery Lead</h3>
+<ul>
+  <li>Led a cross-functional team on structural and recovery subsystem development.</li>
+  <li>Coordinated with propulsion, avionics, and testing teams to maintain alignment with project milestones.</li>
+  <li>Ensured all airframe components met structural and thermal performance requirements.</li>
+</ul>
+
+<hr />
+
+<h3 id="️-tools--processes">⚙️ Tools &amp; Processes</h3>
+<ul>
+  <li><strong>CAD</strong>: SolidWorks for full rocket and subsystem modeling</li>
+  <li><strong>Simulation</strong>: ANSYS Workbench for FEA and CFD
+    <ul>
+      <li>Stress testing on fins, couplers, and internal supports</li>
+      <li>Heat transfer simulations for oxidizer isolation and nozzle systems</li>
+    </ul>
+  </li>
+  <li><strong>Manufacturing</strong>:
+    <ul>
+      <li>Fiberglass body tubes</li>
+      <li>Carbon fiber fins</li>
+      <li>Internal aluminum components</li>
+    </ul>
+  </li>
+  <li><strong>Testing</strong>: Pressure testing, parachute deployment, and ground validation</li>
+</ul>
+
+<hr />
+
+<h3 id="-key-results">📊 Key Results</h3>
+<ul>
+  <li>Reached target altitude and performance criteria in multiple launches</li>
+  <li>All recovery systems deployed successfully</li>
+  <li>Structural integrity confirmed through analysis and post-flight inspections</li>
+</ul>
+
+<hr />
+
+<h3 id="️-visuals">🖼️ Visuals</h3>
+<p><em>To be added:</em></p>
+<ul>
+  <li>CAD renders</li>
+  <li>Launch photos</li>
+  <li>FEA stress plots</li>
+  <li>Team testing &amp; manufacturing photos</li>
+</ul>
+
+<hr />
+
+<h3 id="-deliverables">📎 Deliverables</h3>
+<ul>
+  <li><a href="../assets/pdfs/ouroboros-project-summary.pdf">PDF Report</a> <em>(Upload when ready)</em></li>
+  <li><a href="https://soarucalgary.com">SOAR Website</a></li>
+</ul>
+
+<p><a href="../projects/rocketry.md">⬅ Back to Rocketry</a></p>]]></content><author><name></name></author><category term="rocketry" /><summary type="html"><![CDATA[🛰️ Hybrid Rocket Development – Ouroboros I &amp; II]]></summary></entry><entry><title type="html">CFD Analysis of Scramjet Flow Dynamics</title><link href="https://mutasemrazz.github.io/portfolio/aerospace/2024/05/08/scramjet-cfd.html" rel="alternate" type="text/html" title="CFD Analysis of Scramjet Flow Dynamics" /><published>2024-05-08T00:00:00+00:00</published><updated>2024-05-08T00:00:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/aerospace/2024/05/08/scramjet-cfd</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/aerospace/2024/05/08/scramjet-cfd.html"><![CDATA[<h1 id="-cfd-analysis-of-scramjet-flow-dynamics">🔥 CFD Analysis of Scramjet Flow Dynamics</h1>
+
+<p>This project involved simulating high-speed compressible flow through a scramjet engine to analyze shock wave formation, heat transfer, and flow behavior during supersonic combustion.</p>
+
+<hr />
+
+<h3 id="-objective">🎯 Objective</h3>
+<p>To model internal flow characteristics of a scramjet using OpenFOAM, capturing the effects of shocks, boundary layers, and thermal gradients at Mach 2+ conditions.</p>
+
+<hr />
+
+<h3 id="️-tools--workflow">⚙️ Tools &amp; Workflow</h3>
+<ul>
+  <li><strong>Solver</strong>: OpenFOAM compressible solvers for high-speed flow</li>
+  <li><strong>Mesh Generation</strong>: Custom 2D geometry for isolating scramjet intake and combustion chamber</li>
+  <li><strong>Boundary Conditions</strong>:
+    <ul>
+      <li>Supersonic inlet</li>
+      <li>Subsonic outlet</li>
+      <li>Adiabatic and high-temp walls</li>
+    </ul>
+  </li>
+  <li><strong>Post-Processing</strong>: ParaView for visualizing pressure, temperature, and velocity fields</li>
+</ul>
+
+<hr />
+
+<h3 id="-key-results">📊 Key Results</h3>
+<ul>
+  <li>Captured oblique shock structures and stagnation points</li>
+  <li>Observed flow separation near combustion walls due to thermal gradients</li>
+  <li>Velocity and pressure profiles matched expected theoretical trends</li>
+</ul>
+
+<hr />
+
+<h3 id="️-visuals">🖼️ Visuals</h3>
+<p><em>To be added:</em></p>
+<ul>
+  <li>Pressure contour plots</li>
+  <li>Mach number gradients</li>
+  <li>Shock and boundary layer visualizations</li>
+</ul>
+
+<hr />
+
+<h3 id="-deliverables">📎 Deliverables</h3>
+<ul>
+  <li><a href="../assets/pdfs/scramjet-cfd.pdf">PDF Report</a> <em>(Upload when available)</em></li>
+  <li><a href="https://github.com/MutasemRazz/scramjet-cfd">GitHub Repository (if applicable)</a></li>
+</ul>
+
+<p><a href="../projects/aerospace.md">⬅ Back to Aerospace Projects</a></p>]]></content><author><name></name></author><category term="aerospace" /><summary type="html"><![CDATA[🔥 CFD Analysis of Scramjet Flow Dynamics]]></summary></entry><entry><title type="html">Capstone Project – Thrust Vector Control (TVC) System</title><link href="https://mutasemrazz.github.io/portfolio/aerospace/rocketry/2024/05/08/tvc-capstone.html" rel="alternate" type="text/html" title="Capstone Project – Thrust Vector Control (TVC) System" /><published>2024-05-08T00:00:00+00:00</published><updated>2024-05-08T00:00:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/aerospace/rocketry/2024/05/08/tvc-capstone</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/aerospace/rocketry/2024/05/08/tvc-capstone.html"><![CDATA[<h1 id="-thrust-vector-control-system--capstone-project">🚀 Thrust Vector Control System – Capstone Project</h1>
+
+<p>Our capstone project developed a thrust vector control (TVC) system for the SOAR rocketry team, specifically designed for solid rocket motors using a jet vane approach.</p>
+
+<hr />
+
+<h3 id="-achievement">🏆 Achievement</h3>
+<p>🏅 <strong>Won First Place</strong> in the Multidisciplinary Engineering Category at the University of Calgary Engineering Design Fair.</p>
+
+<hr />
+
+<h3 id="-my-role-structures-lead">🧩 My Role: Structures Lead</h3>
+<ul>
+  <li>Designed and optimized the TVC system for static ground testing on a vertical test stand.</li>
+  <li>Conducted FEA to verify structural integrity under operational thrust loads.</li>
+  <li>Managed manufacturing of motor integration parts and load cell mounting hardware.</li>
+  <li>Coordinated test stand assembly, load cell integration, and vendor communication.</li>
+  <li>Led four successful hot fire tests validating mechanical and software systems.</li>
+</ul>
+
+<hr />
+
+<h3 id="️-tools--methods">⚙️ Tools &amp; Methods</h3>
+<ul>
+  <li><strong>Design</strong>: SolidWorks, 3D printing</li>
+  <li><strong>FEA</strong>: ANSYS Workbench</li>
+  <li><strong>Testing</strong>: Ground hot-fire tests on solid rocket motor</li>
+  <li><strong>Project Management</strong>: Cross-team coordination and manufacturing planning</li>
+</ul>
+
+<hr />
+
+<h3 id="-key-results">📊 Key Results</h3>
+<ul>
+  <li>Verified mechanical deflection and load tolerances for jet vane system</li>
+  <li>Collected test data validating thrust response and control system performance</li>
+</ul>
+
+<hr />
+
+<h3 id="️-visuals">🖼️ Visuals</h3>
+<p><em>To be added:</em></p>
+<ul>
+  <li>FEA deformation/stress plots</li>
+  <li>Test stand photos</li>
+  <li>Hot-fire video clips</li>
+</ul>
+
+<hr />
+
+<h3 id="-deliverables">📎 Deliverables</h3>
+<ul>
+  <li><a href="../assets/pdfs/tvc-project-report.pdf">PDF Report</a> <em>(Upload when available)</em></li>
+  <li><a href="https://github.com/MutasemRazz/tvc-capstone">GitHub Repo (if public)</a></li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="../projects/aerospace.md">⬅ Back to Aerospace Projects</a></td>
+      <td><a href="../projects/rocketry.md">⬅ Back to Rocketry</a></td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="aerospace" /><category term="rocketry" /><summary type="html"><![CDATA[🚀 Thrust Vector Control System – Capstone Project]]></summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mutasemrazz.github.io/portfolio/docs/jekyll/2017/11/28/post-exclude-search.html" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00+00:00</published><updated>2018-02-19T13:06:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/docs/jekyll/2017/11/28/post-exclude-search</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/docs/jekyll/2017/11/28/post-exclude-search.html"><![CDATA[<p>This post should not appear in the search index because it has the following YAML Front Matter:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">search</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
+
+<p class="notice--info"><strong>Note:</strong> <code class="language-plaintext highlighter-rouge">search: false</code> only works to exclude posts when using Lunr as a search provider.</p>
+
+<p>To exclude files when using Algolia as a search provider add an array to <code class="language-plaintext highlighter-rouge">algolia.files_to_exclude</code> in your <code class="language-plaintext highlighter-rouge">_config.yml</code>. For more configuration options be sure to check their <a href="https://community.algolia.com/jekyll-algolia/options.html">full documentation</a>.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">algolia</span><span class="pi">:</span>
+  <span class="c1"># Exclude more files from indexing</span>
+  <span class="na">files_to_exclude</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="s">index.html</span>
+    <span class="pi">-</span> <span class="s">index.md</span>
+    <span class="pi">-</span> <span class="s">excluded-file.html</span>
+    <span class="pi">-</span> <span class="s">_posts/2017-11-28-post-exclude-search.md</span>
+    <span class="pi">-</span> <span class="s">subdirectory/*.html</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="docs" /><category term="Jekyll" /><summary type="html"><![CDATA[This post should not appear in the search index because it has the following YAML Front Matter:]]></summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mutasemrazz.github.io/portfolio/test/jekyll/2017/11/28/post-exclude-search.html" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00+00:00</published><updated>2018-02-19T13:05:34+00:00</updated><id>https://mutasemrazz.github.io/portfolio/test/jekyll/2017/11/28/post-exclude-search</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/test/jekyll/2017/11/28/post-exclude-search.html"><![CDATA[<p>This post should not appear in the search index because it has the following YAML Front Matter:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">search</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
+
+<p class="notice--info"><strong>Note:</strong> <code class="language-plaintext highlighter-rouge">search: false</code> only works to exclude posts when using <strong>Lunr</strong> as a search provider.</p>
+
+<p>To exclude files when using <strong>Algolia</strong> as a search provider add an array to <code class="language-plaintext highlighter-rouge">algolia.files_to_exclude</code> in your <code class="language-plaintext highlighter-rouge">_config.yml</code>. For more configuration options be sure to check their <a href="https://community.algolia.com/jekyll-algolia/options.html">full documentation</a>.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">algolia</span><span class="pi">:</span>
+  <span class="c1"># Exclude more files from indexing</span>
+  <span class="na">files_to_exclude</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="s">index.html</span>
+    <span class="pi">-</span> <span class="s">index.md</span>
+    <span class="pi">-</span> <span class="s">excluded-file.html</span>
+    <span class="pi">-</span> <span class="s">_posts/2017-11-28-post-exclude-search.md</span>
+    <span class="pi">-</span> <span class="s">subdirectory/*.html</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="test" /><category term="Jekyll" /><summary type="html"><![CDATA[This post should not appear in the search index because it has the following YAML Front Matter:]]></summary></entry><entry><title type="html">Layout: Header Video</title><link href="https://mutasemrazz.github.io/portfolio/docs/layout/uncategorized/2017/01/23/layout-header-video.html" rel="alternate" type="text/html" title="Layout: Header Video" /><published>2017-01-23T00:00:00+00:00</published><updated>2017-01-23T00:00:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/docs/layout/uncategorized/2017/01/23/layout-header-video</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/docs/layout/uncategorized/2017/01/23/layout-header-video.html"><![CDATA[<p>This post should display a <strong>header with a responsive video</strong>, if the theme supports it.</p>
+
+<h2 id="settings">Settings</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Required</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">id</code></td>
+      <td><strong>Required</strong></td>
+      <td>ID of the video</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">provider</code></td>
+      <td><strong>Required</strong></td>
+      <td>Hosting provider of the video, either <code class="language-plaintext highlighter-rouge">youtube</code> or <code class="language-plaintext highlighter-rouge">vimeo</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="youtube">YouTube</h3>
+
+<p>To embed the following YouTube video at url <code class="language-plaintext highlighter-rouge">https://www.youtube.com/watch?v=-PVofD2A9t8</code> (long version) or <code class="language-plaintext highlighter-rouge">https://youtu.be/-PVofD2A9t8</code> (short version) into a post or page’s main content you’d use:</p>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="nv">video</span><span class="w"> </span><span class="na">id</span><span class="o">=</span><span class="s2">"-PVofD2A9t8"</span><span class="w"> </span><span class="na">provider</span><span class="o">=</span><span class="s2">"youtube"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre></div></div>
+
+<!-- Courtesy of embedresponsively.com -->
+
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/-PVofD2A9t8" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+
+<p>To embed it as a video header you’d use the following YAML Front Matter</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">header</span><span class="pi">:</span>
+  <span class="na">video</span><span class="pi">:</span>
+    <span class="na">id</span><span class="pi">:</span> <span class="s">-PVofD2A9t8</span>
+    <span class="na">provider</span><span class="pi">:</span> <span class="s">youtube</span>
+</code></pre></div></div>
+
+<h3 id="vimeo">Vimeo</h3>
+
+<p>To embed the following Vimeo video at url <code class="language-plaintext highlighter-rouge">https://vimeo.com/212731897</code> into a post or page’s main content you’d use:</p>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="nv">video</span><span class="w"> </span><span class="na">id</span><span class="o">=</span><span class="s2">"212731897"</span><span class="w"> </span><span class="na">provider</span><span class="o">=</span><span class="s2">"vimeo"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre></div></div>
+
+<!-- Courtesy of embedresponsively.com -->
+
+<div class="responsive-video-container">
+    <iframe src="https://player.vimeo.com/video/212731897?dnt=true" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+
+<p>To embed it as a video header you’d use the following YAML Front Matter</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">header</span><span class="pi">:</span>
+  <span class="na">video</span><span class="pi">:</span>
+    <span class="na">id</span><span class="pi">:</span> <span class="m">212731897</span>
+    <span class="na">provider</span><span class="pi">:</span> <span class="s">vimeo</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="docs" /><category term="Layout" /><category term="Uncategorized" /><category term="video" /><category term="layout" /><summary type="html"><![CDATA[This post should display a header with a responsive video, if the theme supports it.]]></summary></entry><entry><title type="html">Layout: Header Video</title><link href="https://mutasemrazz.github.io/portfolio/test/layout/uncategorized/2017/01/23/layout-header-video.html" rel="alternate" type="text/html" title="Layout: Header Video" /><published>2017-01-23T00:00:00+00:00</published><updated>2017-01-23T00:00:00+00:00</updated><id>https://mutasemrazz.github.io/portfolio/test/layout/uncategorized/2017/01/23/layout-header-video</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/test/layout/uncategorized/2017/01/23/layout-header-video.html"><![CDATA[<p>This post should display a <strong>header with a responsive video</strong>, if the theme supports it.</p>
+
+<h2 id="settings">Settings</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parameter</th>
+      <th>Required</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">id</code></td>
+      <td><strong>Required</strong></td>
+      <td>ID of the video</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">provider</code></td>
+      <td><strong>Required</strong></td>
+      <td>Hosting provider of the video, either <code class="language-plaintext highlighter-rouge">youtube</code> or <code class="language-plaintext highlighter-rouge">vimeo</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="youtube">YouTube</h3>
+
+<p>To embed the following YouTube video at url <code class="language-plaintext highlighter-rouge">https://www.youtube.com/watch?v=-PVofD2A9t8</code> (long version) or <code class="language-plaintext highlighter-rouge">https://youtu.be/-PVofD2A9t8</code> (short version) into a post or page’s main content you’d use:</p>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="nv">video</span><span class="w"> </span><span class="na">id</span><span class="o">=</span><span class="s2">"-PVofD2A9t8"</span><span class="w"> </span><span class="na">provider</span><span class="o">=</span><span class="s2">"youtube"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre></div></div>
+
+<!-- Courtesy of embedresponsively.com -->
+
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/-PVofD2A9t8" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+
+<p>To embed it as a video header you’d use the following YAML Front Matter</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">header</span><span class="pi">:</span>
+  <span class="na">video</span><span class="pi">:</span>
+    <span class="na">id</span><span class="pi">:</span> <span class="s">-PVofD2A9t8</span>
+    <span class="na">provider</span><span class="pi">:</span> <span class="s">youtube</span>
+</code></pre></div></div>
+
+<h3 id="vimeo">Vimeo</h3>
+
+<p>To embed the following Vimeo video at url <code class="language-plaintext highlighter-rouge">https://vimeo.com/212731897</code> into a post or page’s main content you’d use:</p>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="nv">video</span><span class="w"> </span><span class="na">id</span><span class="o">=</span><span class="s2">"212731897"</span><span class="w"> </span><span class="na">provider</span><span class="o">=</span><span class="s2">"vimeo"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre></div></div>
+
+<!-- Courtesy of embedresponsively.com -->
+
+<div class="responsive-video-container">
+    <iframe src="https://player.vimeo.com/video/212731897?dnt=true" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+
+<p>To embed it as a video header you’d use the following YAML Front Matter</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">header</span><span class="pi">:</span>
+  <span class="na">video</span><span class="pi">:</span>
+    <span class="na">id</span><span class="pi">:</span> <span class="m">212731897</span>
+    <span class="na">provider</span><span class="pi">:</span> <span class="s">vimeo</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="test" /><category term="Layout" /><category term="Uncategorized" /><category term="video" /><category term="layout" /><summary type="html"><![CDATA[This post should display a header with a responsive video, if the theme supports it.]]></summary></entry><entry><title type="html">Gemified Theme – Beta Release</title><link href="https://mutasemrazz.github.io/portfolio/docs/jekyll/2016/10/06/gemified-theme-beta.html" rel="alternate" type="text/html" title="Gemified Theme – Beta Release" /><published>2016-10-06T00:00:00+00:00</published><updated>2018-03-20T20:01:04+00:00</updated><id>https://mutasemrazz.github.io/portfolio/docs/jekyll/2016/10/06/gemified-theme-beta</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/docs/jekyll/2016/10/06/gemified-theme-beta.html"><![CDATA[<p>Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.</p>
+
+<p><a href="https://rubygems.org/gems/minimal-mistakes-jekyll"><code class="language-plaintext highlighter-rouge">minimal-mistakes-jekyll</code></a> can only be used with Jekyll proper. If you’re hosting on GitHub Pages or using that gem the theme won’t work. 3rd party themes haven’t been white-listed so it’s a no go for now.</p>
+
+<p>Fine with all that? Great. Let’s continue.</p>
+
+<p>If you’re migrating a site already using Minimal Mistakes and haven’t customized any of the <code class="language-plaintext highlighter-rouge">_includes</code>, <code class="language-plaintext highlighter-rouge">_layouts</code>, <code class="language-plaintext highlighter-rouge">_sass</code> partials, or <code class="language-plaintext highlighter-rouge">assets</code> this should be quick and painless.</p>
+
+<h2 id="step-1-remove-theme-files">Step 1: Remove Theme Files</h2>
+
+<p>Remove <code class="language-plaintext highlighter-rouge">_includes</code>, <code class="language-plaintext highlighter-rouge">_layouts</code>, <code class="language-plaintext highlighter-rouge">_sass</code>, <code class="language-plaintext highlighter-rouge">assets</code> folders and files within. You won’t need these anymore as they’re bundled in the theme.</p>
+
+<p>If you customized any of these then leave them alone and only remove the untouched ones. If setup correctly your modified versions should act as <a href="http://jekyllrb.com/docs/themes/#overriding-theme-defaults">overrides</a> to the versions bundled with the theme.</p>
+
+<h2 id="step-2-update-gemfile">Step 2: Update <code class="language-plaintext highlighter-rouge">Gemfile</code></h2>
+
+<p>Replace <code class="language-plaintext highlighter-rouge">gem "github-pages</code> or <code class="language-plaintext highlighter-rouge">gem "jekyll"</code> with <code class="language-plaintext highlighter-rouge">gem "jekyll", "~&gt; 3.3.0"</code>. You’ll need the latest version of Jekyll<sup id="fnref:update-jekyll"><a href="#fn:update-jekyll" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> for Minimal Mistakes to work and load all of the /assets/ properly.</p>
+
+<p>Add the Minimal Mistakes theme gem:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s2">"minimal-mistakes-jekyll"</span>
+</code></pre></div></div>
+
+<p>When finished your <code class="language-plaintext highlighter-rouge">Gemfile</code> should look something like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">source</span> <span class="s2">"https://rubygems.org"</span>
+
+<span class="n">gem</span> <span class="s2">"jekyll"</span><span class="p">,</span> <span class="s2">"~&gt; 3.3.0"</span>
+<span class="n">gem</span> <span class="s2">"minimal-mistakes-jekyll"</span>
+</code></pre></div></div>
+
+<h2 id="step-3-run-bundler">Step 3: Run Bundler</h2>
+
+<p>Run <code class="language-plaintext highlighter-rouge">bundle install</code> (or <code class="language-plaintext highlighter-rouge">bundle update</code> if you’re updating an existing repo) to install/update Jekyll and the theme.</p>
+
+<h2 id="step-4-install-the-theme">Step 4: Install the Theme</h2>
+
+<p>Add <code class="language-plaintext highlighter-rouge">theme: "minimal-mistakes-jekyll"</code> to your <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
+
+<p>If you’re migrating from an existing Minimal Mistakes site you shouldn’t have to change anything else after this. If it’s a new site consult then docs to <a href="/portfolio/docs/configuration/">properly config</a>.</p>
+
+<p class="notice--danger"><strong>Please Note:</strong> Paths for image headers, overlays, teasers, <a href="/portfolio/docs/helpers/#gallery">galleries</a>, and <a href="/portfolio/docs/helpers/#feature-row">feature rows</a> have changed and now require a full path. Instead of just <code class="language-plaintext highlighter-rouge">image: filename.jpg</code> you’ll need to use the full path eg: <code class="language-plaintext highlighter-rouge">image: assets/images/filename.jpg</code>. The preferred location is now <code class="language-plaintext highlighter-rouge">assets/images</code> but can be placed elsewhere or external hosted. This all applies for image references in <code class="language-plaintext highlighter-rouge">_config.yml</code> and <code class="language-plaintext highlighter-rouge">author.yml</code> as well.</p>
+
+<h2 id="step-5-jekyll-new-tweaks">Step 5: <code class="language-plaintext highlighter-rouge">jekyll new</code> Tweaks</h2>
+
+<p>If this is a new site be sure to add the following files to <code class="language-plaintext highlighter-rouge">_data/</code> and customize as you see fit. There is currently no way of bundling them in with the theme, so be sure to consult the docs on how to properly use both.</p>
+
+<ul>
+  <li><a href="https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml"><code class="language-plaintext highlighter-rouge">_data/ui-text.yml</code></a> - UI text <a href="/portfolio/docs/ui-text/">documentation</a></li>
+  <li><a href="https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml"><code class="language-plaintext highlighter-rouge">_data/navigation.yml</code></a> - navigation <a href="/portfolio/docs/navigation/">documentation</a></li>
+</ul>
+
+<p>You’ll also need to:</p>
+
+<ul>
+  <li>Replace <code class="language-plaintext highlighter-rouge">&lt;site root&gt;/index.html</code> with a modified <a href="https://github.com/mmistakes/minimal-mistakes/blob/master/index.html">Minimal Mistakes <code class="language-plaintext highlighter-rouge">index.html</code></a>.</li>
+  <li>Change <code class="language-plaintext highlighter-rouge">layout: post</code> in <code class="language-plaintext highlighter-rouge">_posts/0000-00-00-welcome-to-jekyll.markdown</code> to <code class="language-plaintext highlighter-rouge">layout: single</code>.</li>
+  <li>Remove <code class="language-plaintext highlighter-rouge">about.md</code>, or at the very least change <code class="language-plaintext highlighter-rouge">layout: page</code> to <code class="language-plaintext highlighter-rouge">layout: single</code> and remove references to <code class="language-plaintext highlighter-rouge">icon-github.html</code> (or <a href="https://github.com/jekyll/minima/tree/master/_includes">copy to your <code class="language-plaintext highlighter-rouge">_includes</code></a> if using).</li>
+</ul>
+
+<hr />
+
+<p>That’s it! If all goes well running <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> should spin-up your site. If you encounter any bumps please file an issue on GitHub and make sure to indicate you’re testing the pre-release Ruby gem version.</p>
+
+<p><a href="https://github.com/mmistakes/minimal-mistakes/issues/new" class="btn btn--info btn--large">File an issue</a></p>
+
+<p>Thanks!</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:update-jekyll">
+      <p>You could also run <code class="language-plaintext highlighter-rouge">bundle update jekyll</code> to update Jekyll. <a href="#fnref:update-jekyll" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="docs" /><category term="Jekyll" /><category term="update" /><summary type="html"><![CDATA[Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.]]></summary></entry><entry><title type="html">Gemified Theme – Alpha Release</title><link href="https://mutasemrazz.github.io/portfolio/docs/jekyll/2016/09/21/gemified-theme-alpha.html" rel="alternate" type="text/html" title="Gemified Theme – Alpha Release" /><published>2016-09-21T00:00:00+00:00</published><updated>2018-03-20T20:00:58+00:00</updated><id>https://mutasemrazz.github.io/portfolio/docs/jekyll/2016/09/21/gemified-theme-alpha</id><content type="html" xml:base="https://mutasemrazz.github.io/portfolio/docs/jekyll/2016/09/21/gemified-theme-alpha.html"><![CDATA[<p>Jekyll <a href="http://jekyllrb.com/docs/themes/">themes distributed as Ruby gems</a> are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it”. Or dealing with merge conflicts when pulling in upstream commits to “upgrade it”.</p>
+
+<p>If you’re interested in testing out Minimal Mistakes as a gemified theme read on. There are a few caveats though:</p>
+
+<ol>
+  <li>Support for a theme <code class="language-plaintext highlighter-rouge">assets</code> folder was recently <a href="https://github.com/jekyll/jekyll/pull/5364">added to Jekyll core</a>, but has yet to be released or rolled into the <code class="language-plaintext highlighter-rouge">github-pages</code> gem. Meaning you can’t use Minimal Mistakes as a Ruby gem there just yet… locally served or self-hosted installs should be fine if you don’t mind using a pre-release version of Jekyll.</li>
+  <li>Windows users can’t currently use themes packaged as gems due to a <a href="https://github.com/jekyll/jekyll/issues/5192">bug with file paths</a> in Jekyll core. This is being worked on so hopefully a <a href="https://github.com/jekyll/jekyll/pull/5256">fix is on the way</a> soon.</li>
+</ol>
+
+<p>Fine with all that? Great. Let’s continue.</p>
+
+<p>If you’re migrating a site already using Minimal Mistakes and haven’t customized any of the <code class="language-plaintext highlighter-rouge">_includes</code>, <code class="language-plaintext highlighter-rouge">_layouts</code>, <code class="language-plaintext highlighter-rouge">_sass</code> partials, or <code class="language-plaintext highlighter-rouge">assets</code> this should be quick and painless.</p>
+
+<h2 id="step-1-remove-theme-files">Step 1: Remove Theme Files</h2>
+
+<p>Remove <code class="language-plaintext highlighter-rouge">_includes</code>, <code class="language-plaintext highlighter-rouge">_layouts</code>, <code class="language-plaintext highlighter-rouge">_sass</code>, <code class="language-plaintext highlighter-rouge">assets</code> folders and files within. You won’t need these anymore as they’re bundled in the theme.</p>
+
+<p>If you customized any of these then leave them alone and only remove the untouched ones. If setup correctly your modified versions should act as <a href="http://jekyllrb.com/docs/themes/#overriding-theme-defaults">overrides</a> to the versions bundled with the theme.</p>
+
+<h2 id="step-2-update-gemfile">Step 2: Update <code class="language-plaintext highlighter-rouge">Gemfile</code></h2>
+
+<p>In order to test you’ll need to install pre-release gems of Jekyll and Minimal Mistakes.</p>
+
+<p>Start by replacing <code class="language-plaintext highlighter-rouge">gem "github-pages"</code> or <code class="language-plaintext highlighter-rouge">gem "jekyll"</code> with the following:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s2">"jekyll"</span><span class="p">,</span> <span class="ss">:git</span> <span class="o">=&gt;</span> <span class="s2">"https://github.com/jekyll/jekyll.git"</span>
+</code></pre></div></div>
+
+<p>Then add the pre-release Minimal Mistakes theme gem:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s2">"minimal-mistakes-jekyll"</span><span class="p">,</span> <span class="ss">:git</span> <span class="o">=&gt;</span> <span class="s2">"https://github.com/mmistakes/minimal-mistakes.git"</span><span class="p">,</span> <span class="ss">:branch</span> <span class="o">=&gt;</span> <span class="s2">"feature/theme-gem"</span><span class="sb">`
+</span></code></pre></div></div>
+
+<p>When finished your <code class="language-plaintext highlighter-rouge">Gemfile</code> should look something like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">source</span> <span class="s2">"https://rubygems.org"</span>
+
+<span class="n">gem</span> <span class="s2">"jekyll"</span><span class="p">,</span> <span class="ss">:git</span> <span class="o">=&gt;</span> <span class="s2">"https://github.com/jekyll/jekyll.git"</span>
+<span class="n">gem</span> <span class="s2">"minimal-mistakes-jekyll"</span><span class="p">,</span> <span class="ss">:git</span> <span class="o">=&gt;</span> <span class="s2">"https://github.com/mmistakes/minimal-mistakes.git"</span><span class="p">,</span> <span class="ss">:branch</span> <span class="o">=&gt;</span> <span class="s2">"feature/theme-gem"</span>
+
+<span class="n">group</span> <span class="ss">:jekyll_plugins</span> <span class="k">do</span>
+  <span class="c1"># gem "jekyll-archives"</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-paginate"</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-sitemap"</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-gist"</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-feed"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h2 id="step-3-run-bundler">Step 3: Run Bundler</h2>
+
+<p>Run <code class="language-plaintext highlighter-rouge">bundle install</code> (or <code class="language-plaintext highlighter-rouge">bundle update</code> if you’re updating an existing repo) to install the pre-release gems.</p>
+
+<h2 id="step-4-install-the-theme">Step 4: Install the Theme</h2>
+
+<p>Add <code class="language-plaintext highlighter-rouge">theme: "minimal-mistakes-jekyll"</code> to your <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
+
+<p>If you’re migrating from an existing Minimal Mistakes site you shouldn’t have to change anything else after this. If it’s a new site consult then docs to <a href="/portfolio/docs/configuration/">properly config</a>.</p>
+
+<p class="notice--danger"><strong>Please Note:</strong> Paths for image headers, overlays, teasers, <a href="/portfolio/docs/helpers/#gallery">galleries</a>, and <a href="/portfolio/docs/helpers/#feature-row">feature rows</a> have changed and now require a full path. Instead of just <code class="language-plaintext highlighter-rouge">image: filename.jpg</code> you’ll need to use the full path eg: <code class="language-plaintext highlighter-rouge">image: assets/images/filename.jpg</code>. The preferred location is now <code class="language-plaintext highlighter-rouge">assets/images</code> but can be placed elsewhere or external hosted. This applies for image references in <code class="language-plaintext highlighter-rouge">_config.yml</code> and <code class="language-plaintext highlighter-rouge">author.yml</code>.</p>
+
+<h2 id="step-5-jekyll-new-tweaks">Step 5: <code class="language-plaintext highlighter-rouge">jekyll new</code> Tweaks</h2>
+
+<p>If this is a new site be sure to add the following files to <code class="language-plaintext highlighter-rouge">_data/</code> and customize as you see fit. There is currently no way of bundling them in with the theme, so be sure to consult the docs on how to properly use both.</p>
+
+<ul>
+  <li><a href="https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml"><code class="language-plaintext highlighter-rouge">_data/ui-text.yml</code></a> - UI text <a href="/portfolio/docs/ui-text/">documentation</a></li>
+  <li><a href="https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml"><code class="language-plaintext highlighter-rouge">_data/navigation.yml</code></a> - navigation <a href="/portfolio/docs/navigation/">documentation</a></li>
+</ul>
+
+<p>You’ll also need to:</p>
+
+<ul>
+  <li>Replace <code class="language-plaintext highlighter-rouge">&lt;site root&gt;/index.html</code> with a modified <a href="https://github.com/mmistakes/minimal-mistakes/blob/master/index.html">Minimal Mistakes <code class="language-plaintext highlighter-rouge">index.html</code></a>.</li>
+  <li>Change <code class="language-plaintext highlighter-rouge">layout: post</code> in <code class="language-plaintext highlighter-rouge">_posts/0000-00-00-welcome-to-jekyll.markdown</code> to <code class="language-plaintext highlighter-rouge">layout: single</code>.</li>
+  <li>Remove <code class="language-plaintext highlighter-rouge">about.md</code>, or at the very least change <code class="language-plaintext highlighter-rouge">layout: page</code> to <code class="language-plaintext highlighter-rouge">layout: single</code> and remove references to <code class="language-plaintext highlighter-rouge">icon-github.html</code> (or <a href="https://github.com/jekyll/minima/tree/master/_includes">copy to your <code class="language-plaintext highlighter-rouge">_includes</code></a> if using).</li>
+</ul>
+
+<hr />
+
+<p>That’s it! If all goes well running <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> should spin-up your site. If you encounter any bumps please file an issue on GitHub and make sure to indicate you’re testing the pre-release Ruby gem version.</p>
+
+<p><a href="https://github.com/mmistakes/minimal-mistakes/issues/new" class="btn btn--info btn--large">File an issue</a></p>
+
+<p>Thanks!</p>]]></content><author><name></name></author><category term="docs" /><category term="Jekyll" /><category term="update" /><summary type="html"><![CDATA[Jekyll themes distributed as Ruby gems are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it”. Or dealing with merge conflicts when pulling in upstream commits to “upgrade it”.]]></summary></entry></feed>
