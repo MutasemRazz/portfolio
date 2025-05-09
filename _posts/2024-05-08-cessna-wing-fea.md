@@ -19,24 +19,25 @@ Evaluate the wing's structural behavior under various flight conditions — incl
 
 #### Pressure Contour  
 **Climb Attitude:**  
-![Pressure - Climb](../assets/images/cessna-pressure-climb.png)
+![Pressure - Climb](https://mutasemrazz.github.io/portfolio/assets/images/cessna-pressure-climb.png)
 
 **Cruise Attitude:**  
-![Pressure - Cruise](../assets/images/cessna-pressure-cruise.png)
+![Pressure - Cruise](https://mutasemrazz.github.io/portfolio/assets/images/cessna-pressure-cruise.png)
 
 #### Total Deformation  
 **Climb Attitude:**  
-![Deformation - Climb](../assets/images/cessna-deformation-climb.png)
+![Deformation - Climb](https://mutasemrazz.github.io/portfolio/assets/images/cessna-deformation-climb.png)
 
 **Cruise Attitude:**  
-![Deformation - Cruise](../assets/images/cessna-deformation-cruise.png)
+![Deformation - Cruise](https://mutasemrazz.github.io/portfolio/assets/images/cessna-deformation-cruise.png)
 
 #### Von-Mises Stress  
 **Climb Attitude:**  
-![Von-Mises - Climb](../assets/images/cessna-vonmises-climb.png)
+![Von-Mises - Climb](https://mutasemrazz.github.io/portfolio/assets/images/cessna-vonmises-climb.png)
 
 **Cruise Attitude:**  
-![Von-Mises - Cruise](../assets/images/cessna-vonmises-cruise.png)
+![Von-Mises - Cruise](https://mutasemrazz.github.io/portfolio/assets/images/cessna-vonmises-cruise.png)
+
 
 ---
 
