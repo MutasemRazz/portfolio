@@ -1,0 +1,23 @@
+title: "Mutasem A. Razzek Portfolio"
+description: "Mechanical & Aerospace Engineer | EIT | Private Pilot"
+author: "Mutasem A. Razzek"
+email: "mabdalrazzek@gmail.com"
+baseurl: "/portfolio" # important for GitHub Pages when repo name is not username.github.io
+url: "https://mutasemrazz.github.io"
+
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects/aerospace.md
+  - projects/rocketry.md
+  - projects/oil-gas.md
+  - projects/aviation.md
+  - skills.md
+  - contact.md
