@@ -820,4 +820,4 @@ var store = [{
         "tags": [],
         "url": "/portfolio/aerospace/rocketry/2024/05/08/tvc-capstone.html",
         "teaser": null
-      },]
+      }]
