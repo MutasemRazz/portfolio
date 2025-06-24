@@ -15,13 +15,13 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
 
-author:
-  name: "Mutasem A. Razzek"
-  bio: "Mechanical & Aerospace Engineer | EIT | Private Pilot"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MutasemRazz"
+#author:
+#  name: "Mutasem A. Razzek"
+ # bio: "Mechanical & Aerospace Engineer | EIT | Private Pilot"
+  #links:
+   # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+     # url: "https://github.com/MutasemRazz"
 
 defaults:
   - scope:
