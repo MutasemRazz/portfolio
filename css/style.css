@@ -1,4 +1,17 @@
 body {
+    background-color: #0d1117;
+    color: #e6edf3;
+  }
+  
+  h1, h2, h3 {
+    color: #58a6ff;
+  }
+  
+  a {
+    color: #f778ba;
+  }
+  
+body {
     font-family: 'Segoe UI', sans-serif;
     background-color: #121212;
     color: #e0e0e0;
